@@ -1,3 +1,3 @@
-# combat
+# GNIT COVID HACKATHON
 
-covid hack source code
+Website source code for COVID Hackthon of Guru Nanak Institute of Technology
